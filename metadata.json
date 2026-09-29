@@ -1,0 +1,6 @@
+{
+  "name": "Function in Real Life",
+  "description": "Multimedia Pembelajaran Interaktif (MPI) Matematika SMA Kelas XI: Menemukan Matematika yang Tersembunyi di Sekitar Kita (Fungsi Irasional & Fungsi Nilai Mutlak).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
